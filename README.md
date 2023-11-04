@@ -1,6 +1,6 @@
 # Codember - Resolución de retos
 
-Participa de [Codember pulsando aquí](https://codember.dev/ "Codember Midudev")
+Participa en [Codember pulsando aquí](https://codember.dev/ "Codember Midudev")
 
 Pasos para ejecutar el script
 ```sh
